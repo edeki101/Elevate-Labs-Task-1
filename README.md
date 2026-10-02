@@ -1,4 +1,4 @@
-# Elevate Labs AI & ML Internship - Task 1
+#Elevate Labs AI & ML Internship - Task 1: Data Cleaning & Preprocessing
 
 ## Objective
 This repository contains the completion of Task 1: Data Cleaning & Preprocessing. The goal is to clean and prepare raw data for machine learning models by handling missing values, encoding categorical variables, scaling features, and removing outliers.
